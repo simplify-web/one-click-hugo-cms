@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -79,8 +78,8 @@ pricing:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Green or roasted beans
+        - One or two varieties of beans
       plan: Small
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
